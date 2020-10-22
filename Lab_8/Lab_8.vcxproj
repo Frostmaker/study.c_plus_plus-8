@@ -142,6 +142,9 @@
     <ClCompile Include="defs.cpp" />
     <ClCompile Include="Lab_8.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="defs.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
